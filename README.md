@@ -12,6 +12,11 @@ The dataset is appropriate for this project because it:
 - supports exploration of relationships between claims, spending, and healthcare product categories,
 - provides a strong foundation for future regression, classification, clustering, and association-rule work.
 
+## Why This Dataset Was Chosen
+This dataset was selected because it represents a practical healthcare analytics problem that combines financial and utilization information in a structured and interpretable format. It reflects real-world Medicare Part B drug spending behavior and provides multiple quantitative variables that are well suited for data mining techniques such as regression, classification, clustering, and association rule mining.
+
+Because I work in the healthcare industry, this dataset is especially meaningful to me. It allows me to explore how beneficiary counts, claim volumes, and spending measures interact in a way that connects directly to healthcare operations, reimbursement planning, and cost monitoring. The project is therefore not only a technical exercise, but also a way to apply data-driven analysis to issues that are relevant in real healthcare decision-making.
+
 ## Major Steps Taken
 1. Loaded the dataset directly from the CMS API using Python.
 2. Inspected the structure, data types, and missing values.
